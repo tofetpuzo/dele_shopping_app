@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DeleManVentures</string>
+    <string name="cover">cover</string>
+    <string name="title_place_holder">title_place_holder</string>
+    <string name="author_place_holder">Author Place Holder</string>
+    <string name="Description">description</string>
+</resources>
