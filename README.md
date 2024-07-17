@@ -2,5 +2,7 @@
 
 This is an android app for shopping written in java.
 
-Here is the login page
+login page
+<br/>
+<br/>
 ![login](/assets/android_test.png)
