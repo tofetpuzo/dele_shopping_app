@@ -95,7 +95,7 @@ public class DetailActivity extends AppCompatActivity {
                 else{
                     System.out.println(" just print something ");
                 }
-//                this is used for saving to the cart to allow it forwarded.
+//                This is used for saving to the cart to allow it forwarded.
                 Gson gsons = new Gson();
                 String converted_cart_passed_to_next_activity = gsons.toJson(cart);
                 sharedCartEditor.putString("cart", converted_cart_passed_to_next_activity);
